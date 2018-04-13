@@ -1,4 +1,4 @@
-# Innofied Guide for PHP Laravel
+# Guide for PHP Laravel
 
 > This is just a standard way we should write code so that everyone can understand eachother's code and perform on them.
 
